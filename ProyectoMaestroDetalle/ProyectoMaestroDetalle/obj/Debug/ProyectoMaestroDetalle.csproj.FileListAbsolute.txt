@@ -1,0 +1,71 @@
+C:\Users\Deidad\source\repos\ProyectoMaestroDetalle\ProyectoMaestroDetalle\bin\Debug\ProyectoMaestroDetalle.exe.config
+C:\Users\Deidad\source\repos\ProyectoMaestroDetalle\ProyectoMaestroDetalle\bin\Debug\ProyectoMaestroDetalle.exe
+C:\Users\Deidad\source\repos\ProyectoMaestroDetalle\ProyectoMaestroDetalle\bin\Debug\ProyectoMaestroDetalle.pdb
+C:\Users\Deidad\source\repos\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.csproj.AssemblyReference.cache
+C:\Users\Deidad\source\repos\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Customers.resources
+C:\Users\Deidad\source\repos\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.MenuOpciones.resources
+C:\Users\Deidad\source\repos\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Properties.Resources.resources
+C:\Users\Deidad\source\repos\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.csproj.GenerateResource.cache
+C:\Users\Deidad\source\repos\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.csproj.CoreCompileInputs.cache
+C:\Users\Deidad\source\repos\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.exe
+C:\Users\Deidad\source\repos\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.pdb
+C:\Users\Deidad\source\repos\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Products.resources
+C:\Users\Deidad\source\repos\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Employees.resources
+C:\Users\Deidad\source\repos\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.MaestroDetalle.resources
+C:\Users\Deidad\source\repos\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Login.resources
+C:\Users\pepec\Downloads\ProyectoMaestroDetalle\ProyectoMaestroDetalle\bin\Debug\ProyectoMaestroDetalle.exe.config
+C:\Users\pepec\Downloads\ProyectoMaestroDetalle\ProyectoMaestroDetalle\bin\Debug\ProyectoMaestroDetalle.exe
+C:\Users\pepec\Downloads\ProyectoMaestroDetalle\ProyectoMaestroDetalle\bin\Debug\ProyectoMaestroDetalle.pdb
+C:\Users\pepec\Downloads\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.csproj.AssemblyReference.cache
+C:\Users\pepec\Downloads\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Customers.resources
+C:\Users\pepec\Downloads\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Employees.resources
+C:\Users\pepec\Downloads\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Login.resources
+C:\Users\pepec\Downloads\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.MaestroDetalle.resources
+C:\Users\pepec\Downloads\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.MenuOpciones.resources
+C:\Users\pepec\Downloads\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Products.resources
+C:\Users\pepec\Downloads\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Properties.Resources.resources
+C:\Users\pepec\Downloads\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.csproj.GenerateResource.cache
+C:\Users\pepec\Downloads\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.csproj.CoreCompileInputs.cache
+C:\Users\pepec\Downloads\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.exe
+C:\Users\pepec\Downloads\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.pdb
+D:\pepec\Materias de Universidad Semestre 6\TallerBD\ProyectoFinal\ProyectoMaestroDetalle\ProyectoMaestroDetalle\bin\Debug\ProyectoMaestroDetalle.exe.config
+D:\pepec\Materias de Universidad Semestre 6\TallerBD\ProyectoFinal\ProyectoMaestroDetalle\ProyectoMaestroDetalle\bin\Debug\ProyectoMaestroDetalle.exe
+D:\pepec\Materias de Universidad Semestre 6\TallerBD\ProyectoFinal\ProyectoMaestroDetalle\ProyectoMaestroDetalle\bin\Debug\ProyectoMaestroDetalle.pdb
+D:\pepec\Materias de Universidad Semestre 6\TallerBD\ProyectoFinal\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.csproj.AssemblyReference.cache
+D:\pepec\Materias de Universidad Semestre 6\TallerBD\ProyectoFinal\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Customers.resources
+D:\pepec\Materias de Universidad Semestre 6\TallerBD\ProyectoFinal\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Employees.resources
+D:\pepec\Materias de Universidad Semestre 6\TallerBD\ProyectoFinal\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Login.resources
+D:\pepec\Materias de Universidad Semestre 6\TallerBD\ProyectoFinal\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.MaestroDetalle.resources
+D:\pepec\Materias de Universidad Semestre 6\TallerBD\ProyectoFinal\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.MenuOpciones.resources
+D:\pepec\Materias de Universidad Semestre 6\TallerBD\ProyectoFinal\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Products.resources
+D:\pepec\Materias de Universidad Semestre 6\TallerBD\ProyectoFinal\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Properties.Resources.resources
+D:\pepec\Materias de Universidad Semestre 6\TallerBD\ProyectoFinal\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.csproj.GenerateResource.cache
+D:\pepec\Materias de Universidad Semestre 6\TallerBD\ProyectoFinal\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.csproj.CoreCompileInputs.cache
+D:\pepec\Materias de Universidad Semestre 6\TallerBD\ProyectoFinal\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.exe
+D:\pepec\Materias de Universidad Semestre 6\TallerBD\ProyectoFinal\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.pdb
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\bin\Debug\ProyectoMaestroDetalle.exe.config
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\bin\Debug\ProyectoMaestroDetalle.exe
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\bin\Debug\ProyectoMaestroDetalle.pdb
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.csproj.AssemblyReference.cache
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Login.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.MenuOpciones.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Properties.Resources.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.csproj.GenerateResource.cache
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.csproj.CoreCompileInputs.cache
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.exe
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.pdb
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.AccreditationControl.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Club.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.AttendanceRecord.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.ClubStudent.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.clubSchedule.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Employee.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Event.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Expenses.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Expensetype.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.ExtracurricularScholarship.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Facility.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Material.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.MaterialLoan.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.MaterialType.resources
+C:\Users\jimen\Desktop\ProyectoMaestroDetalle\ProyectoMaestroDetalle\obj\Debug\ProyectoMaestroDetalle.Student.resources
